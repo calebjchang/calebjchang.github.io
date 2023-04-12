@@ -6,7 +6,7 @@ title: "E4: Progress in Programming Report"
 date: 2023-04-11
 published: true
 labels:
-  - WOD
+  - Assignment1
 --- 
 
 ### My programming skills have greatly improved in the following ways:
@@ -25,7 +25,7 @@ The labs were 1000% very useful in helping me learn new concepts. Almost every s
 Assignment1 was a big wakeup call and definitely the most difficult but the most rewarding thing I've ever made. In two sittings, I worked on my code from 3pm to 3am one night, where I struggled  and struggled and finally was able to get my code to work properly. Even with help from peers and the usage of ChatGPT, it seemed that sometimes the more I added to try to fix, the more I exacerbated the issue. It was a moment where the advice from Professor Port on taking things one at time truly came in handy. The most surprising thing was that I learned how complicated, rewarding, and difficult CSS could be. I took inspiration for my website from another and when I looked through all the HTMl and the CSS on that website, I was discouraged in the sheer amount of code, but in awe of how far CSS could be pushed. I do feel ready to work on Assignment2, but I feel like the more I underestimate the work needed to complete it, the more I'll struggle on Assignment3.
 
 ### I think the class can be improved to help my learning in the following ways:
-
+I will say that for the most part the class doesn't have too much room for improvements. However, in the ways it is lacking, it is quite frustrating. For the quizzes, although they weren't too difficult most of the time, they were often posted with very little time to complete it. There were also instances of where due dates for labas or WODs weren't exactly made clear until class time or until close to the deadline. The instructions on the ITM website were also sometimes quite unclear in some ways, and often left me looking for more. 
 
 ### What helped me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
-
+I think that the class itself is formatted very well in that it is very intuitive. The screencasts and readings translate to the labs, and the labs translate to the WODs, and the WODs translate to Assignments and our own knowledge. What helped me most in class was being able to work with classmates and seeing their and upperclassmen's code and strengthening my understanding of the code and the concepts.
