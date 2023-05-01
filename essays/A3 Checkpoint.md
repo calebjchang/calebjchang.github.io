@@ -10,6 +10,9 @@ labels:
 --- 
 
 ### Show what each page will look like.
+[Here](https://youtube.com) is a link to a YouTube video of me covering my sitepath.
+
+![sitemap](https://github.com/calebjchang/calebjchang.github.io/blob/main/essays/sitepath.PNG)
 
 ### Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 I wasn't sure which way I wanted to go, but I felt that if I had the cart display on the product pages, I had to make it functional and still have a separate shopping cart page on top of that, so I will most likely opt to just have a shopping cart page. I'll have a little cart icon display in the top right, in line with my nav bar, and when a user adds a product to the cart, I want to have some kind of feedback display on the page, showing that you have x amount of items in the cart, through a message that displays or a small number near the icon. When a user adds an item to their cart, the button will create a new key-value pair in the user's session.
