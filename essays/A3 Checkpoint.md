@@ -10,7 +10,7 @@ labels:
 --- 
 
 ### Show what each page will look like.
-[Here](https://youtube.com) is a link to a YouTube video of me covering my sitepath.
+[Here](https://youtube.com](https://youtu.be/HzYw8aH35eE) is a link to a YouTube video of me covering my sitepath.
 
 ![sitemap](https://github.com/calebjchang/calebjchang.github.io/blob/main/essays/sitepath.PNG)
 
